@@ -1,0 +1,14 @@
+
+#Ignore compiled files
+target/*
+
+#Ignore intelliJ files
+.idea/*
+
+#Ignore zip files
+*.zip
+
+#Misic
+*.txt
+*.bin
+*.pdf
