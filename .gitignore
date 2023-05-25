@@ -1,6 +1,6 @@
 
 #Ignore compiled files
-target/*
+target
 
 #Ignore intelliJ files
 .idea/*
