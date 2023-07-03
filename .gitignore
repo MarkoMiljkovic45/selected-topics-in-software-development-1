@@ -3,7 +3,7 @@
 target
 
 #Ignore intelliJ files
-.idea/*
+.idea
 
 #Ignore zip files
 *.zip
@@ -11,4 +11,3 @@ target
 #Misic
 *.txt
 *.bin
-*.pdf
